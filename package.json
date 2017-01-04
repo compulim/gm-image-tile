@@ -1,0 +1,11 @@
+{
+  "name": "gm-image-tile",
+  "version": "0.1.0",
+  "main": "index.js",
+  "jsnext:main": "index.jsnext.js",
+  "dependencies": {
+    "babel-preset-es2017": "^6.16.0",
+    "babel-register": "^6.18.0",
+    "gm": "^1.23.0"
+  }
+}
