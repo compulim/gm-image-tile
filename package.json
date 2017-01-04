@@ -3,6 +3,15 @@
   "version": "0.1.0",
   "main": "index.js",
   "jsnext:main": "index.jsnext.js",
+  "license": "MIT",
+  "author": {
+    "name": "William Wong",
+    "url": "https://github.com/compulim"
+  },
+  "repository": {
+    "type": "url",
+    "url": "https://github.com/compulim/gm-image-tile.git"
+  },
   "dependencies": {
     "babel-preset-es2017": "^6.16.0",
     "babel-register": "^6.18.0",
