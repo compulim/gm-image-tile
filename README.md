@@ -22,7 +22,7 @@ imageTile(imageBuffer, 512).then(result => {
 
 ### Result from `imageTile` call
 
-Assumes the input image is 1024x768 and tile size is set to 512 pixels. After calling `imageTile`, the result will be returned as [Buffer](https://nodejs.org/api/buffer.html), as follow.
+Assumes the input image is 1024x768 and tile size is set to 512 pixels. After calling `imageTile`, the result will be returned as [Buffer](https://nodejs.org/api/buffer.html), as follow. Notes the bottommost tiles are truncated and height is 256 pixels.
 
 ```js
 [
