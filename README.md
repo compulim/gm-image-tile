@@ -42,8 +42,8 @@ By default, the output tiles are in PNG format. To output in JPEG format of qual
 
 ```js
 const options = {
-  "format": "JPG",
-  "quality": 80
+  format: 'JPG',
+  quality: 80
 }
 
 imageTile(imageBuffer, 512, options).then(result => {
