@@ -24,7 +24,7 @@ imageTile(imageBuffer, 512).then(result => {
 
 Assumes the input image is 1024x768 and tile size is set to 512 pixels. After calling `imageTile`, the result will be returned as [Buffer](https://nodejs.org/api/buffer.html), as follow.
 
-```json
+```js
 [
   [
     { buffer: <Buffer>, x: 0,   y: 0, width: 512, height: 512 },
