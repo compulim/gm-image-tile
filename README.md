@@ -1,4 +1,4 @@
-# gm-image-tile [![NPM Version](https://img.shields.io/npm/v/gm.svg?style=flat)](https://www.npmjs.org/package/gm-image-tile)
+# gm-image-tile [![NPM Version](https://img.shields.io/npm/v/gm-image-tile.svg?style=flat)](https://www.npmjs.org/package/gm-image-tile)
 
 Creates image tiles in Node.js using GraphicsMagick.
 
